@@ -9,8 +9,8 @@
 🎓 &nbsp;I graduated with a Bachelor of Engineering in Electrical-Electronics Engineering from Eskişehir Osmangazi University.\
 🌱 &nbsp;I'm constantly learning and improving my skills in cloud technologies, backend development, and full-stack engineering.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at [Your Email]! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](Your Resume Link) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at mumi1478@gmail.com, I'll try to respond as soon as I can.\
+
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
