@@ -67,14 +67,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/-Muhammet%20Ocak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:YourEmail"><img src="https://img.shields.io/badge/-YourEmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/muhock16"><img src="https://img.shields.io/badge/-Muhammet%20Ocak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:mumiock.1067@gmail.com"><img src="https://img.shields.io/badge/-YourEmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
-### 🐍 &nbsp;My Contribution Graph
-
-<div align="center">
-  <a href="https://github.com/mumiock/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
