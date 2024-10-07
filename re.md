@@ -68,5 +68,5 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/muhock16"><img src="https://img.shields.io/badge/-Muhammet%20Ocak-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mumiock.1067@gmail.com"><img src="https://img.shields.io/badge/-YourEmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mumiock.1067@gmail.com"><img src="https://img.shields.io/badge/-Muhammet Ocak-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
