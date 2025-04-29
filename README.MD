@@ -5,7 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻 &nbsp;I am currently working as a Cloud Backend Engineer at MYTH.AI.\
+👨‍💻 &nbsp;I am currently working as a Cloud Backend Engineer.\
 💡 &nbsp;I have nearly three years of industry experience and excel in problem-solving as an electrical and electronics engineer.\
 🎓 &nbsp;I graduated with a Bachelor of Engineering in Electrical-Electronics Engineering from Eskişehir Osmangazi University.\
 🌱 &nbsp;I'm constantly learning and improving my skills in cloud technologies, backend development, and full-stack engineering.\
